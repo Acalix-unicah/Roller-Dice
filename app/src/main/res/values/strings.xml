@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roller Dice</string>
+    <string name="roller">Lanzar</string>
+    <string name="textAreaUser">Ingrese un valor</string>
+</resources>
